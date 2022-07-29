@@ -12,12 +12,10 @@
 <summary>🇺🇸 <strong>English</strong></summary>
 Hello! I am Javi (mori.codes over here). And this is my GitHub account. Don't expect nothing too spectacular yet, this is just my learning space.
 </details>
-<br>
 <details open>
 <summary>🇪🇸 <strong>Español</strong></summary>
 Hola! Soy Javi (mori.codes por aquí). Y esta es mi cuenta de GitHub. No esperes nada muy espectacular por ahora, esto es solo mi lugar de trabajo.
 </details>
-<br>
 <br>
 
 <h2 id="tech">🤖 Tech / Tecnologías</h2>
@@ -65,4 +63,5 @@ Hola otra vez :), aunque no lo parezca, me gradué de ingeniero de Software, y a
 <br>
 
 <h2 id="projects">📂 Projects / Proyectos</h2>
+
 > *Laziness is nothing more than the habit of resting before you get tired.*
